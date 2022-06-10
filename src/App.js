@@ -8,6 +8,7 @@ export default function App() {
         <div
           style={{
             display: "flex",
+
             flexFlow: "row nowrap",
             justifyContent: "start",
             alignItems: "start",
